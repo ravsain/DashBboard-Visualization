@@ -1,3 +1,3 @@
 # DashBboard-Visualization
 
-In this assignment you will use the free trial version of IBM Cognos Analytics Tool.
+In this assignment i am using the free trial version of IBM Cognos Analytics Tool.
